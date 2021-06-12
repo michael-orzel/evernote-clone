@@ -1,0 +1,48 @@
+html, body {
+  font-family: 'Poppins';
+  height: 100%;
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+#evernote-container {
+  font-family: 'Poppins';
+  height: 100%;
+  box-sizing: border-box;
+}
+.app-container {
+  font-family: 'Poppins';
+  height: 100%;
+  box-sizing: border-box;
+}
+.quill {
+  font-family: 'Poppins';
+  height: 100%;
+  box-sizing: border-box;
+  width: calc(100% - 300px);
+  float: left;
+}
+.ql-container {
+  font-family: 'Poppins';
+  font-size: 14px;
+  box-sizing: border-box;
+  height: calc(100% - 42px);
+  overflow-y: scroll;
+}
+.ql-editor {
+  font-family: 'Poppins';
+  height: 100vh;
+  cursor: text;
+}
+.MuiListItem-root.Mui-selected {
+  background-color: #d4d8e8 !important;
+}
+.no-note-selected {
+  font-family: 'Poppins';
+  font-size: 48px;
+  position: absolute;
+  top: 50px;
+  left: calc(50% - 165px);
+}
