@@ -3,14 +3,14 @@
 Evernote clone is a basic note taking application similar in functionality to Evernote.
 
 ### Features
-* Create note.
-* Select note.
-* Modify note.
-* Delete note.
-* Notes organized by most recently updated.
-* User registration and sign in with email & password.
-* Firestore initialization. 
-* User note collection modification.
+* Create note
+* Select note
+* Modify note
+* Delete note
+* Notes organized by most recently updated
+* User registration and sign in with email & password
+* Firestore initialization
+* User note collection modification
 
 ### Technologies
 * ReactJS (Classes)
